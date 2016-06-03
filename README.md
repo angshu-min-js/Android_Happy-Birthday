@@ -1,4 +1,4 @@
-Birthday Card Sample App
+Birthday Card App
 ===================================
 
 Sample app that displays a birthday card. Used in the Udacity Android for Beginners course.
